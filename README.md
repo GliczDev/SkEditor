@@ -1,4 +1,4 @@
-# Skript-Code-Edtior
+# SkEditor
 
 This program was created to modify *.sk files
 
